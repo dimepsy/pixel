@@ -41,7 +41,7 @@ $count=0;
 						
                     </p>
 					<b>Published Date:</b> <?php echo $row['Date'];?><br>
-			////\\\		<b>Last Edited By:</b> <?php echo $row['Last_Edited_By'];?><br>
+			<b>Last Edited By:</b> <?php echo $row['Last_Edited_By'];?><br>
 				</article>
 			</div>
 		</div>
